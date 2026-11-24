@@ -1,0 +1,10 @@
+{
+    "rev":  "20261108151244",
+    "intervalMinutes":  5,
+    "ads":  [
+                {
+                    "file":  "ad1.png",
+                    "seconds":  10
+                }
+            ]
+}
